@@ -71,8 +71,7 @@ DevOps: Docker, GitHub Actions, CI/CD, Linux
 
 LinkedIn: https://linkedin.com/in/surajsinghbartwal
 Email: suraj@example.com
-Portfolio: https://yourportfolio.com
-Twitter/X: https://twitter.com/BEZERKMODE
+
 
 ---
 
